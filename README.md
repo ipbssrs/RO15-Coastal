@@ -10,3 +10,6 @@ SSRS RO15 - Coastal &amp; Marine Research Group is a research group of IPB SSRS 
 * Salma Safitri, _Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University_
 * Mirlan Sujana, _Department of Mathematics, Faculty of Mathematics and Natural Sciences, IPB University_
 * Farrell Rafli Ramadhany, _Department of Chemistry, Faculty of Mathematics and Natural Sciences, IPB University_
+* ![gem](https://img.shields.io/badge/PROJECT_1-Coastline_Change_in_Indonesia_Project-lightblue) ![gem](https://img.shields.io/badge/PUBLICATION-P1/P5-lightblue)
+* ![gem](https://img.shields.io/badge/PROJECT_2-Marine_Debris_Monitoring_Project-steelblue) ![gem](https://img.shields.io/badge/PUBLICATION-P2-steelblue)
+* ![gem](https://img.shields.io/badge/PROJECT_3-Sedimentation_and_Water_Quality_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P3/P4-blue)
