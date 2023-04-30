@@ -1,4 +1,6 @@
-# SSRS RO15 - Coastal & Marine Research Group
+# SSRS RO15 - Coastal & Marine Research Group <a href="https://github.com/ipbssrs/RO15-Coastal/blob/91f0661c85df8a18eb5e2bed39593806b95f1607/ADMIN/RO15-coast.png" align="right" width="95" /><a href="https://ssrs.ipb.ac.id/"><img src="https://github.com/ipbssrs/RO1-Forest/blob/9de66f8d96760f1dd315df2b7af0062259c60ccc/ADMIN/Logo2_kecil.png" align="right" width="95" />
+<br /> 
+
 ## Overview
 SSRS RO15 - Coastal &amp; Marine Research Group is a research group of IPB SSRS Association
 ## Research Team
