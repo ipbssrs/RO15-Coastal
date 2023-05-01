@@ -17,9 +17,9 @@ SSRS RO15 - Coastal &amp; Marine Research Group is a research group of IPB SSRS 
 * ![gem](https://img.shields.io/badge/PROJECT_2-Marine_Debris_Monitoring_Project-steelblue) ![gem](https://img.shields.io/badge/PUBLICATION-P2-steelblue)
 * ![gem](https://img.shields.io/badge/PROJECT_3-Sedimentation_and_Water_Quality_Project-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P3/P4-blue)
 ## Progress
-* ![gem](https://img.shields.io/badge/PROJECT_1-ON_PROGRESS-limegreen)![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600)[![Generic badge](https://progress-bar.dev/20?title=P1&color=grey)](https://shields.io/)[![Generic badge](https://progress-bar.dev/2?title=P5&color=grey)](https://shields.io/)
-* ![gem](https://img.shields.io/badge/PROJECT_2-PRELIMINARY_STUDY-limegreen)![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)[![Generic badge](https://progress-bar.dev/2?title=P2&color=grey)](https://shields.io/)
-* ![gem](https://img.shields.io/badge/PROJECT_3-PRELIMINARY_STUDY-limegreen)![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)[![Generic badge](https://progress-bar.dev/2?title=P3&color=grey)](https://shields.io/)[![Generic badge](https://progress-bar.dev/2?title=P4&color=grey)](https://shields.io/)
+* ![gem](https://img.shields.io/badge/PROJECT_1-ON_PROGRESS-limegreen) ![](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600) [![Generic badge](https://progress-bar.dev/20?title=P1&color=grey)](https://shields.io/) [![Generic badge](https://progress-bar.dev/2?title=P5&color=grey)](https://shields.io/)
+* ![gem](https://img.shields.io/badge/PROJECT_2-PRELIMINARY_STUDY-limegreen) ![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600) [![Generic badge](https://progress-bar.dev/2?title=P2&color=grey)](https://shields.io/)
+* ![gem](https://img.shields.io/badge/PROJECT_3-PRELIMINARY_STUDY-limegreen) ![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600) [![Generic badge](https://progress-bar.dev/2?title=P3&color=grey)](https://shields.io/) [![Generic badge](https://progress-bar.dev/2?title=P4&color=grey)](https://shields.io/)
 ## Publication
 
 ________________________________________________________________________________________________________________________________________________________
