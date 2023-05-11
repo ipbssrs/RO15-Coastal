@@ -5,7 +5,9 @@
 SSRS RO15 - Coastal &amp; Marine Research Group is a research group of IPB SSRS Association
 ## Research Team
 * **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+<br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](asyarihutan92@gmail.com)
 * **Rani Andriani Tunggal** (RO Secretary), _Department of Biochemistry, Faculty of Mathematics and Natural Sciences, IPB University_
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/raniandrinni/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rani-Andriani)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rani-andriani-tunggal-b479ab244/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](raniandriani344@gmail.com)
 * **Atika Mayangsari Dewi**, _Department of  Marine Sciences and Technology, Faculty of Fisheries and Marine Science, IPB University_
 * **Gansuar Sepri**, _Department of Aquatic Product Technology, Faculty of Fisheries and Marine Science, IPB University_
 * **Rafi Pranaja**, _Department of Aquatic Product Technology, Faculty of Fisheries and Marine Science, IPB University_
